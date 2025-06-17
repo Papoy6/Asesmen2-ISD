@@ -63,6 +63,7 @@ class DaftarPaket {
         System.out.println("Urutan paket harus diselesaikan:");
         while (!queue.isEmpty()) {
             System.out.println(queue.poll());
+            
         }
     }
 }

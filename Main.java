@@ -9,6 +9,7 @@ public class Main {
         daftarPaket.terimaKiriman(5, "Julia", 8, "Same day", "Jl. Ciganitri no. 13");
         daftarPaket.terimaKiriman(6, "Agus", 9, "biasa", "Jl. Ciganitri no. 23");
         
+        
         daftarPaket.cetakDataPaket();
     }
 }
